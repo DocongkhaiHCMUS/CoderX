@@ -1,0 +1,7 @@
+var myClass = [
+    {name : 'Quang', phone : 0851123452},
+    {name : 'rùa', phone : 0351236789},
+    {name : 'đại bàng', phone : 0851234512},
+    {name : 'sư tử', phone : 0912738637},
+    {name : 'trâu', phone : 0903468958}
+    ];
